@@ -1,2 +1,2 @@
 # SpeedFixForQMultiMod
-A Subnautica mod that restores QMultiMod Cyclops speed tweaks when you change Cyclops motor mode.
+If you have QMultiMod installed and that you tweaked Cyclops speed, you probably noticed that when you change Cyclops motor mode the speed tweaks gets reset. This mod will fix that.
