@@ -1,0 +1,10 @@
+{
+  "Id": "SpeedFixForQMultiMod",
+  "DisplayName": "Speed fix for QMultiMod",
+  "Author": "OSubMarin",
+  "Version": "1.0.0",
+  "Enable": true,
+  "Game": "Subnautica",
+  "AssemblyName": "SpeedFixForQMultiMod.dll",
+  "EntryMethod": "SpeedFixForQMultiMod.QPatch.Patch"
+}
